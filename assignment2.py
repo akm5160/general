@@ -8,7 +8,7 @@ df = pd.read_csv("assignment2dataset.csv")
 
 
 embedding_client = AzureOpenAI(
-    api_key="DfzssPr22RT860RbpPPoZCiaUkCOXmwYhfjMw8gJv9PYpaozskyZJQQJ99BEACHrzpqXJ3w3AAAAACOGr7XK",
+    api_key="DfzssXXXXXXXXXXXXX",
     api_version="2024-02-15-preview",
     azure_endpoint="https://user2-mb0ggj8z-northcentralus.cognitiveservices.azure.com/openai/deployments/text-embedding-3-small/embeddings?api-version=2023-05-15"
 )
